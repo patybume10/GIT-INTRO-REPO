@@ -1,4 +1,4 @@
-# 2020BW01S02
+# GIT INTRO REPO
 
 This is an example repository.
 
